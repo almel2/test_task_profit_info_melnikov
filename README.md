@@ -1,0 +1,1 @@
+# test_task_profit_info_melnikov
